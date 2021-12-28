@@ -1,5 +1,5 @@
 # XPRESS TAROT
-## Silly REST API for Tarot readings
+##  Silly web service for Tarot readings
 
 
 The title says all.
